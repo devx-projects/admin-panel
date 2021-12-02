@@ -74,7 +74,7 @@
             <h4 class="modal-title">Profile</h4>
             <button type="button" class="close" data-dismiss="modal">&times;</button>
           </div>
-          
+          git remote add origin https://github.com/selfdevolp/admin-panel.git
                         <?php
                                         $x=0;
                                       include "connection.php";  
